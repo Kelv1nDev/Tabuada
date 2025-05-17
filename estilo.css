@@ -1,0 +1,48 @@
+body {
+    background: rgb(28, 28, 32);
+    font: normal 20pt arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    /*cor*/
+    border-radius: 10px;
+    /*borda*/
+    padding: 15px;
+    /*espaço*/
+    width: 500px;
+    /*largura*/
+    margin: auto;
+    /*centralizar*/
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.568);
+    /*sombra da borda*/
+
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+#txtn {
+    border-radius: 7px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.568);
+}
+
+#GerarTabuada {
+    border-radius: 7px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.568);
+}
+
+#seltab {
+    border-radius: 7px;
+    padding: 2px;
+    /*espaço*/
+
+}
